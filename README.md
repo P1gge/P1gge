@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @P1gge
 - 👀 I’m interested in computers and programming
-- 🌱 Done some programming in Python, currently learning Java
 - 📫 How to reach me : discord - pigeton
